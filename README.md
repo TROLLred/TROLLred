@@ -87,10 +87,3 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Tauri-Dark.svg" title="Tauri" alt="Tauri" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/72518640?s=48&v=4" title="TanStackQuery" alt="TanStackQuery" width="40" height="40"/>&nbsp;
 </div>
-
-## В планах
-
-- [ ] Portfolio 2.0
-- [ ] Создать первый Clipboard Manager для Windows с экосистемой
-- [ ] Разработать геймченджер в сфере HR
-- [ ] Уничтожить Яндекс
